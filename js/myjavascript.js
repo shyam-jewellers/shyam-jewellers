@@ -10,11 +10,11 @@ const productinfo = [
     {},
     {
         name: 'Aad',
-        imagesLength: 32
+        imagesLength: 25
     },
     {
         name: 'Baaju',
-        imagesLength: 40
+        imagesLength: 25
     },
     {
         name: 'Bangels',
@@ -22,7 +22,7 @@ const productinfo = [
     },
     {
         name: 'Chokar',
-        imagesLength: 39
+        imagesLength: 33
     },
     {
         name: 'Jhumka',
@@ -54,11 +54,11 @@ const productinfo = [
     },
     {
         name: 'Sui Dhaga',
-        imagesLength: 39
+        imagesLength: 12
     },
     {
         name: 'Tevta',
-        imagesLength: 36
+        imagesLength: 35
     }
 ]
 

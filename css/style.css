@@ -2,7 +2,8 @@
 /*--------------------------------------------------------------------- import Fonts ---------------------------------------------------------------------*/
  @import url('https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700');
  @import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
-/*****---------------------------------------- 1) font-family: 'Rajdhani', sans-serif;
+ @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400..800&display=swap');
+ /*****---------------------------------------- 1) font-family: 'Rajdhani', sans-serif;
  2) font-family: 'Poppins', sans-serif;
  ----------------------------------------*****/
 /*--------------------------------------------------------------------- import Files ---------------------------------------------------------------------*/
