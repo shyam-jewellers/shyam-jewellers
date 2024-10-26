@@ -10,27 +10,35 @@ const productinfo = [
     {},
     {
         name: 'Aad',
-        imagesLength: 25
+        imagesLength: 21
     },
     {
         name: 'Baaju',
-        imagesLength: 25
+        imagesLength: 19
     },
     {
         name: 'Bangels',
-        imagesLength: 79
+        imagesLength: 91
+    },
+    {
+        name: 'Chain',
+        imagesLength: 19
     },
     {
         name: 'Chokar',
-        imagesLength: 33
+        imagesLength: 23
     },
     {
         name: 'Jhumka',
-        imagesLength: 40
+        imagesLength: 79
+    },
+    {
+        name: 'Mang Tika',
+        imagesLength: 10
     },
     {
         name: 'Mangalsutra',
-        imagesLength: 81
+        imagesLength: 133
     },
     {
         name: 'Nath',
@@ -38,23 +46,27 @@ const productinfo = [
     },
     {
         name: 'Necklace',
-        imagesLength: 26
+        imagesLength: 37
     },
     {
         name: 'Payal',
-        imagesLength: 20
+        imagesLength: 27
     },
     {
         name: 'Rakhdi',
-        imagesLength: 16
+        imagesLength: 24
     },
     {
         name: 'Rings',
-        imagesLength: 17
+        imagesLength: 50
+    },
+    {
+        name: 'Silver Baaju',
+        imagesLength: 20
     },
     {
         name: 'Sui Dhaga',
-        imagesLength: 12
+        imagesLength: 16
     },
     {
         name: 'Tevta',
